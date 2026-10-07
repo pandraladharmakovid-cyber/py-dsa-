@@ -32,6 +32,9 @@ This repository is used to:
     │   │
     │   └── array.py
     │
+    ├── binary_tree/
+    │   └── binarytree.py
+    │
     ├── linked list/
     │   └── linkedlist1.py
     │
@@ -47,7 +50,11 @@ This repository is used to:
     ├── stacks/
     │   └── stack.py
     │
+    ├── strings/
+    │   └── strings.py
+    │
     └── README.md
+
 ## 📈 Progress
 
 This repository is continuously updated as I solve more problems.
